@@ -9,7 +9,7 @@
   <url type="website">http://wiki.ros.org/rqt_robot_steering</url>
   <url type="repository">https://github.com/Sulamke/rqt_robot_steering</url>
   
-  <author>Dirk Thomas</author>
+  <author>Kegan Sulamoyo</author>
 
   <buildtool_depend>catkin</buildtool_depend>
 
